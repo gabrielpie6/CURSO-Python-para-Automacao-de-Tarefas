@@ -1,5 +1,5 @@
 ##########################################################
-# Capítulo 3 - Arquivos                                  #
+# Capitulo 3 - Arquivos                                  #
 # EXEMPLO: Escrita de um arquivo de texto (.txt)         #
 #                                                        #
 ##########################################################
