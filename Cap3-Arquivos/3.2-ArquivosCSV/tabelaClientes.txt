@@ -1,0 +1,4 @@
+Cliente,Total a Pagar,Total Pago
+Alberto,15,10
+Bianca,100,0
+Carlos,50,50

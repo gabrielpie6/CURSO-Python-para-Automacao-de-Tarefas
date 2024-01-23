@@ -5,7 +5,8 @@
 ##########################################################
 
 
-with open("arquivoDeTexto.txt", mode='r') as arquivoTxt:
+nomeDoArquivo = "arquivoDeTexto.txt"        # Definindo o nome do documento a ser exportado
+with open(nomeDoArquivo, mode='r') as arquivoTxt:
     nome = arquivoTxt.readline()            # Realizando a leitura da primeira linha do documento
     print("Nome da empresa: " + nome)       # Escrevendo no terminal o nome que esta no documento lido
     
