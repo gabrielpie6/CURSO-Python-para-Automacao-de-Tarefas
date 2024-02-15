@@ -15,9 +15,7 @@ with open(nomeDoArquivo, mode='r') as arquivoTxt:
         print(linha)                        # Escrevendo a linha lida no terminal
 
 
-
-
 ##########################################################
 #    (C) Copyright CODIFICA - CNPJ 02.274.882/0001-09    #
-#        Code provided by Gabriel Pietsiaki Izidoro      #
+#        Code provided by           Gabriel Pietsiaki    #
 ##########################################################

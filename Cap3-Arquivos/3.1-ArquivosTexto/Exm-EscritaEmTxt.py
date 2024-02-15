@@ -20,5 +20,5 @@ with open(nomeDoArquivo, mode='w') as arquivoTxt:
 
 ##########################################################
 #    (C) Copyright CODIFICA - CNPJ 02.274.882/0001-09    #
-#        Code provided by Gabriel Pietsiaki Izidoro      #
+#        Code provided by           Gabriel Pietsiaki    #
 ##########################################################
